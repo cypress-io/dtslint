@@ -24,7 +24,7 @@
     "test": "node test/test.js"
   },
   "dependencies": {
-    "definitelytyped-header-parser": "Microsoft/definitelytyped-header-parser#production",
+    "definitelytyped-header-parser": "Microsoft/definitelytyped-header-parser#4941b70b7658d5238b619dcba694aee22f5b8f56",
     "fs-promise": "^2.0.0",
     "strip-json-comments": "^2.0.1",
     "tslint": "^5.9.1",
